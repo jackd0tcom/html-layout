@@ -17,9 +17,33 @@ header {
 }
 
 .green {
-    background-color: green;
-    height: 20vh;
+    background-color: rgb(29, 153, 29);
+    height: 22vh;
     display: inline-block;
     margin-left: 5%;
     width: 35%;
 }
+
+.blue {
+    background-color: rgb(111, 189, 238);
+    height: 22vh;
+    display: inline-block;
+    width: 22%;
+    margin-left: 5%;
+    border-radius: 50%;
+}
+
+section {
+    margin-top: 20px;
+    border: 4px dotted black;
+    height: 25vh;
+}
+
+.yellow {
+    background-color: rgb(254, 255, 215);
+    height: 18vh;
+    margin: 30px;
+    box-shadow: 8px 10px 10px black;
+}
+
+footer {}
