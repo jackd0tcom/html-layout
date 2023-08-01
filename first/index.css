@@ -1,0 +1,16 @@
+header {
+    height: 125px;
+    background-color: rgb(79, 79, 79);
+}
+
+
+section {
+    background-color: rgb(195, 195, 195);
+    height: 100%;
+}
+
+footer {
+    background-color: black;
+    height: 50px;
+    float: bottom;
+}
