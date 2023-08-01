@@ -1,0 +1,25 @@
+html {
+    padding: 20px;
+}
+
+header {
+    border: 3px solid black;
+    height: 25vh;
+}
+
+.purple {
+    background-color: rgb(112, 68, 188);
+    height: 15vh;
+    display: inline-block;
+    width: 40px;
+    margin-top: 8vh;
+    margin-left: 10px;
+}
+
+.green {
+    background-color: green;
+    height: 20vh;
+    display: inline-block;
+    margin-left: 5%;
+    width: 35%;
+}
