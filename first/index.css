@@ -5,12 +5,31 @@ header {
 
 
 section {
-    background-color: rgb(195, 195, 195);
-    height: 100%;
+    background-color: rgb(163, 163, 163);
+    height: 70vh;
+    width: 15%;
+    display: inline-block;
+
+
 }
 
-footer {
+.left {
+    float: left;
+}
+
+.middle {
+    width: 70%;
+    background-color: white;
+}
+
+.right {
+    float: right;
+}
+
+div {
     background-color: black;
-    height: 50px;
-    float: bottom;
+    height: 10vh;
+    position: relative;
+    margin-top: 60vh;
+
 }
